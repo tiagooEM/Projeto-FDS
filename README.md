@@ -7,7 +7,7 @@ Uma aplicação web inovadora projetada para otimizar o atendimento público na 
 ## Principais Funcionalidades:
 
 - **Monitoramento em tempo real;** Acompanhar a quantidade de pessoas por unidade de saúde para evitar o superlotamento.
-- **Teleconsulta;** Consulta virtual com o intuito de agilizar o processo de atendimento.
+- **Teleconsulta;** Consulta virtual com o intuito de agilizar o processo de atendimento.   
 - **Checklist de sintomas;** Será um checklist para realizar uma triagem, a qual filtra pela gravidade e urgência das condições de saúde do paciente, facilitando a análise do médico.
 - **Agendamento de exame;** Buscar disponibilidade de horários e localidades das unidades de saúde.
 
