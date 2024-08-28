@@ -10,7 +10,7 @@ Uma aplicação web inovadora projetada para otimizar o atendimento público na 
 - **Teleconsulta;** Consulta virtual com o intuito de agilizar o processo de atendimento.
 - **Checklist de sintomas;** Será um checklist para realizar uma triagem, a qual filtra pela gravidade e urgência das condições de saúde do paciente, facilitando a análise do médico.
 - **Agendamento de exame;** Buscar disponibilidade de horários e localidades das unidades de saúde.
-
+- **Mapeamento de Doenças e Vacinas;** Recurso que permite aos pacientes rastrear doenças em sua região e localizar centros de vacinação próximos.
 ## Equipe:
 
 - Gabrielle Mastellari (gmv2@cesar.school)
