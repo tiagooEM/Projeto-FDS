@@ -42,7 +42,7 @@ jobs:
         run: |
           rm .env
           rm cypress.config.js
-          rm package.lock.json
+          rm package-lock.json
           rm package.json
           rm -rf cypress
 
